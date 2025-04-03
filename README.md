@@ -1,2 +1,2 @@
-# YOLOv8-Projects
+# YOLOvX-Projects
 Projects created using YOLOvX
