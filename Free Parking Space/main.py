@@ -257,7 +257,3 @@ while True:
 cap.release()
 writer.release()
 cv2.destroyAllWindows()
-
-# Park kısımlarını tekrar belirle 
-# yan giren araç için bir nesneye ait birden fazla bölge al 
-# Bu noktaların bulunduğu yere göre neresi dolu neresi değil bunu bul
